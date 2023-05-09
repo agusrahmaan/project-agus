@@ -9,3 +9,10 @@ Fitur:
 
 # Latihan
 ![Ini Foto](lunox.jpg)
+
+```c
+void main()
+{
+    printf("Hello World!");
+}
+```
